@@ -1,14 +1,14 @@
 # MY MORNING FOOD
-- Chocolatine
-- Croissant
-- Pain aux raisins
+- Chocolatine - offert
+- Croissant   - 2€
+- Pain aux raisins  - 3€
 
 # MY LUNCH FOOD
-- Jambon
-- Fromage
-- Flan
+- Jambon - 5€
+- Jambon/Fromage - 7€
+- Flan - 3€
 
 # MY DINER FOOD
-- Tacos
-- Saucisson
-- Soupe de mamie
+- Tacos - 15€
+- Saucisson - 10€
+- Soupe de mamie - 12€

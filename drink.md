@@ -1,16 +1,16 @@
 # MES DRINKS
 
 ## Morning
-- Jus d'orange
-- Chocolat chaud
-- Eau
-- Lait
+- Jus d'orange - 4€
+- Chocolat chaud - 4€
+- Eau - 4€
+- Lait - 4€
 
 ## Lunch
-- Jus d'orange
-- Eau
+- Jus d'orange - 4€
+- Eau - 4€
 
 ## DIner
-- Cocktails
-- Jus d'orange
-- Coca-Cola
+- Cocktails - 4€
+- Jus d'orange - 4€
+- Coca-Cola - 4€
